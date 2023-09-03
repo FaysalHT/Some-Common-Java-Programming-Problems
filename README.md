@@ -1,1 +1,1 @@
-# Some-Common-Java-Programming-Problems
+I have provided some programming problems which are commonly given during Java programming courses. Please notify me if you have any more common Java programming problems which I have missed here, I will add them in future here.
